@@ -1,2 +1,2 @@
 
-BOT_TOKEN = "5130116255:AAGJGUSBUrOQQ1plNaPMZJ6EmRJbxVGPyvY"
+BOT_TOKEN = "token-is-protected"
